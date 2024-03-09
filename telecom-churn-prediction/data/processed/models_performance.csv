@@ -1,0 +1,4 @@
+Method ;Features ;Model;Accuracy;AUC;Recall;Precision;F1;Kappa;MCC
+PyCaret;All;Naive Bayes;0.7344;0.8241;0.7741;0.5003;0.6077;0.4207;0.4437
+PyCaret;20 most important;Naive Bayes;0.7746;0.8265;0.7039;0.5605;0.6239;0.4659;0.4723
+PyCaret;11 most important;Quadratic Discriminant Analysis;0.7612;0.8285;0.7363;0.537;0.6209;0.4528;0.4650
